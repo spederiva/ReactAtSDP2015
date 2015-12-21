@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/Todo/TodoMvc/app" />
+        <item url="file://$PROJECT_DIR$/Todo/TodoMvc_Sample/app" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Todo/TodoMvc_Sample2/app" />
+      <root url="file://$PROJECT_DIR$/Todo/TodoMvc/app" />
+      <root url="file://$PROJECT_DIR$/Todo/TodoMvc_Sample/app" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

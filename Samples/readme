@@ -1,0 +1,8 @@
+browserify -t babelify --presets react src/app.jsx -o dist/bundle.js
+
+watchify -t babelify ./src/app.jsx -o ./dist/bundle.js -v
+
+browserify main.js -o bundle.js -t [ babelify --presets [ es2015 react ] ]
+
+
+watchify -v browserify -t [ babelify --presets [ react ] ] src/app.jsx -o dist/bundle.js
